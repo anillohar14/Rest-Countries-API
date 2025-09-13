@@ -76,7 +76,7 @@ body.dark{
     border-radius: 4px;
     /* margin-inline: 5px */
 }
-@media(max-width: 860px){
+@media(max-width: 920px){
     .country-details{
         flex-direction: column;
         margin-top: 32px;

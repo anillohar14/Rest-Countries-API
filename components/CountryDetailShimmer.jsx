@@ -3,11 +3,11 @@ import './CountryDetailShimmer.css'
 function CountryDetailShimmer() {
   return (
     <main>
-      <div className="main-container">
+      <div className="main-containershimmer">
         <span className="back-button shimmer"></span>
-        <div className="country-details">
+        <div className="country-detailsshimmer">
           <img src="null" alt="" />
-          <div className="details-container">
+          <div className="details-containershimmer">
             <h1></h1>
           <div className="details-text shimmer">
             <p></p>

@@ -147,3 +147,10 @@ main {
     flex-direction: column;
   }
 }
+
+@media(max-width: 580px){
+  .country-contianer{
+  display: flex;
+  align-items: center;
+  }
+}
